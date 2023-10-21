@@ -49,3 +49,8 @@ img {
     display: block;
     margin: 0 auto; 
 }
+
+.Portada {
+    width: 500px;
+    height: auto;
+}
